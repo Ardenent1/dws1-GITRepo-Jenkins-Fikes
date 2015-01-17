@@ -1,0 +1,122 @@
+/* body elements */
+body {
+background-color: #FF712E;
+color: #1278261;
+width: 900px;
+height: 4150px;
+padding: 30px 30px;
+border: 5px solid #1278261;
+border-radius: 2em 2em;
+margin: 20px auto;
+box-shadow: 10px 0px 5px 5px #1278261;
+}
+/* h1 elements */
+h1 {
+color: #7F523D;
+font-family: Open Sans, sans-serif;
+font-size: 2.5em;
+text-align: center;
+text-shadow: 2px 3px #1278261;
+text-transform: uppercase;
+text-decoration: underline;
+font-weight: bold;
+line-height: 80%;
+padding: 20px;
+}
+/* h2 elements */	
+h2 {
+color: #7F523D;
+font-family: Open Sans, sans-serif;
+font-size: 2.0em;
+font-weight: bold;
+line-height: 20%;
+text-align: center;
+text-shadow: 2px 3px #1278261;
+text-transform: uppercase;
+text-decoration: underline;
+}
+/* h3 elements */	
+h3 {
+color: #7F523D;
+font-family: Open Sans, sans-serif;
+font-size: 1.5em;
+text-align: center;
+text-shadow: 1px 2px #1278261;
+font-weight: bold;
+}
+/* paragraph elements */	
+p {
+font-family: Open Sans, sans-serif;
+text-align: center;
+display: block;
+}
+/* strong elements */
+strong {
+color: #7F523D;
+}
+/* unvisited link elements */
+a:link {
+color: #000000;
+}
+/* visited link element */	
+a:visited {
+color: #1278261;
+}
+/* hover link elements */	
+a:hover {
+color: #7F523D;
+text-decoration: underline;
+}
+/* active link element */	
+a:active {
+color: #1278261;
+}
+/* unordered list elements */	
+ul {
+color: #000000;
+font-family: Open Sans, sans-serif;
+text-align: center;
+border: 3px solid #1278261;
+border-radius: 10em 10em;
+padding: 10px;
+}
+/* list item elements */
+li {
+font-family: Open Sans, sans-serif;
+text-align: center;
+list-style: lower-roman;
+margin: 1em;
+}
+/* ordered list elements */	
+ol {
+color: #000000;
+font-family: Open Sans, sans-serif;
+text-align: center;
+border: 3px solid #1278261;
+border-radius: 10em 10em;
+padding: 10px;
+}
+/* image elements */	
+#images {
+font-family: Open Sans, sans-serif;
+font-style: italic;
+text-align: center;
+}
+/* image source elements */
+#imageSources {
+font-family: Open Sans, sans-serif;
+text-align: center;
+}
+/* image hover elements */	
+img:hover {
+background-color: #1278261;
+border: 2px dashed #ffffff;
+padding: 2px;
+margin: 6px;
+}
+/* contact information elements */
+#contactMe {
+font-family: Open Sans, sans-serif;
+text-align: center;
+opacity: 0.7;
+}
